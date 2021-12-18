@@ -1,4 +1,4 @@
-<br/> <br/>
+<br/>
 
 [![MIT License](https://img.shields.io/badge/Licença-MIT-red.svg)](https://opensource.org/licenses/MIT) 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue.svg?logo=linkedin)](https://www.linkedin.com/in/denis-alberto-silverio-11014925/)
@@ -17,7 +17,7 @@
   <h3 align="center">RMS Titanic</h3>
 
   <p align="justify">
-    Em 10 de Abril de 1912 inicia-se a primeira e última viajem do maior e mais luxuoso navio de passageiros da época, o RMS Titanic. Com mais de 269 metros de comprimento e mais de 46 mil toneladas, era operado pela White Star Line e tinha a lenda de ser supostamente "inafundável". Porém ele nunca chegou ao seu destino final em Nova Yorque pois em 14 de Abril de 1912, colidiu em um iceberg e na madrugada do dia seguinte naufragou nas aguas geladas do Atlântico, dando origem a mais lembrada trajédia marítma até o momento.
+    Em 10 de Abril de 1912 inicia-se a primeira e última viajem do maior e mais luxuoso navio de passageiros da época, o RMS Titanic. Com mais de 269 metros de comprimento e mais de 46 mil toneladas, era operado pela White Star Line e tinha a lenda de ser supostamente "inafundável". Porém ele nunca chegou ao seu destino final em Nova Yorque pois em 14 de Abril de 1912, colidiu com um imenso iceberg e na madrugada do dia seguinte naufragou nas águas geladas do oceâno Atlântico, dando origem a mais conhecida trajédia marítma até o momento.
     <br/><br/>
 </p>
 
@@ -25,8 +25,6 @@
 <p align="justify">
     Para estudar algumas ferramentas da área da ciência de dados, utilizei um data set disponibilizado pela equipe da <a href="https://udacity.com">Udacity</a>, que contém informações reais sobre uma parte dos passageiros à bordo do RMS Titanic no dia da     tragédia, para realizar uma análise básica.
 </p>
-
-<br />
 
 ## Instruções
 
@@ -53,7 +51,7 @@
     Após isso, selecione o arquivo <a href="https://github.com/denisAlberto/AnaliseExploratoriaTitanic/blob/main/EstudoTitanic.ipynb/">"EstudoTitanic.ipynb"</a> e realize o upload para sua conta.
     <br/>
     Também será necessário realizar o upload do dataset <a href="https://github.com/denisAlberto/AnaliseExploratoriaTitanic/blob/main/titanic.data">"titanic.data"</a> que contém os dados que utilizei para a análise. Portanto na aba lateral esquerda, encontre o icone de pasta "arquivos", em seguida clique no icone de upload, e depois encontre o arquivo <a href="https://github.com/denisAlberto/AnaliseExploratoriaTitanic/blob/main/titanic.data">"titanic.data"</a> na pasta do projeto em seu computador para realizar o upload.
-    <br/>
+    <br/><br/>
 </p>
 
 <p align="center">
