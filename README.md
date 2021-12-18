@@ -3,9 +3,9 @@
 [![MIT License](https://img.shields.io/badge/Licença-MIT-red.svg)](https://opensource.org/licenses/MIT) 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue.svg?logo=linkedin)](https://www.linkedin.com/in/denis-alberto-silverio-11014925/)
 [![Python](https://img.shields.io/badge/-Python-214767.svg?logo=Python)](https://www.python.org/)
-[![Numpy](https://img.shields.io/badge/-Numpy-4d77cf.svg?logo=numpy)](https://pandas.pydata.org/)
+[![Numpy](https://img.shields.io/badge/-Numpy-4d77cf.svg?logo=numpy)](https://numpy.org/learn/)
 [![Pandas](https://img.shields.io/badge/-Pandas-130654.svg?logo=pandas)](https://pandas.pydata.org/)
-[![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c.svg?logo=Google%20Colab)](https://colab.research.google.com/)
+[![Matplotlib](https://img.shields.io/badge/Matplot-Lib-11557c.svg)](https://matplotlib.org/stable/tutorials/index.html)
 [![Google Colab](https://img.shields.io/badge/-Google%20Colab-orange.svg?logo=Google%20Colab)](https://colab.research.google.com/)
 
 <br />
